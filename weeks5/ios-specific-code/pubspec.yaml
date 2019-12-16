@@ -1,0 +1,4 @@
+name: playground
+dependencies:
+  flutter:
+    sdk: flutter
